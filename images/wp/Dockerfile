@@ -1,4 +1,4 @@
-FROM php:8.4.6RC1-apache
+FROM php:8.4.8RC1-apache
 
 # install the PHP extensions we need
 RUN set -ex; \
